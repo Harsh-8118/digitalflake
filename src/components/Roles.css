@@ -1,0 +1,48 @@
+.container {
+    max-width: 1200px;
+  }
+  
+  h2, h3 {
+    margin: 0;
+  }
+  
+  .input-group .form-control {
+    border-right: 0;
+  }
+  
+  .input-group .input-group-text {
+    background: white;
+    border-left: 0;
+  }
+  
+  .btn-primary {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+  }
+  
+  .table-responsive {
+    margin-top: 20px;
+  }
+  
+  .table thead {
+    background-color: #fff3cd;
+  }
+  
+  .table .text-success {
+    color: green !important;
+  }
+  
+  .table .text-danger {
+    color: red !important;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-secondary {
+    background-color: #e2e3e5;
+    border-color: #d3d4d5;
+    color: #333;
+  }
+  

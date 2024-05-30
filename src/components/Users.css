@@ -1,0 +1,57 @@
+.container {
+    max-width: 1200px;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+  .input-group .form-control {
+    border-right: 0;
+  }
+  
+  .input-group .input-group-text {
+    background: white;
+    border-left: 0;
+  }
+  
+  .btn-primary {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    vertical-align: middle;
+  }
+  
+  .table-header {
+    background-color: #fff3cd;
+  }
+  
+  .table-bordered {
+    border: 1px solid #dee2e6;
+  }
+  
+  .table-bordered th,
+  .table-bordered td {
+    border: 1px solid #dee2e6;
+  }
+  
+  .text-success {
+    color: green !important;
+  }
+  
+  .text-danger {
+    color: red !important;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

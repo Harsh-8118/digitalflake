@@ -1,0 +1,11 @@
+/* src/components/MainContent.css */
+.main-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .main-logo {
+    height: 80px;
+    margin-bottom: 20px;
+  }
+  

@@ -1,0 +1,27 @@
+/* src/components/Header.css */
+.header {
+    background-color: #6f2da8;
+    color: white;
+    height: 60px;
+  }
+
+  /* src/components/Header.css */
+.navbar-brand img {
+    margin-right: 10px;
+  }
+  
+  
+  .header-logo {
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .header-title {
+    font-size: 24px;
+  }
+  
+  .header-icon {
+    font-size: 30px;
+    cursor: pointer;
+  }
+  

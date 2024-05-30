@@ -1,0 +1,28 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    background-color: #f4f4f4;
+    width: 200px;
+    height: 100vh;
+    padding: 20px;
+  }
+  
+  .sidebar-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    cursor: pointer;
+  }
+  
+  .sidebar-item.active, .sidebar-item:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .sidebar-icon {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  /* Sidebar.css */
+.sidebar-item.active {
+  background-color: #f2d02784; /* Change the background color for the active item */
+}

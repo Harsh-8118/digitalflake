@@ -1,0 +1,63 @@
+.add-user-container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-user-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group input {
+    margin-bottom: 10px;
+  }
+  
+  .dropdown select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .upload-image {
+    margin-bottom: 15px;
+  }
+  
+  .upload-image label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .upload-image input {
+    display: block;
+  }
+  
+  .upload-image img {
+    display: block;
+    margin-top: 10px;
+    max-width: 100px;
+    border-radius: 50%;
+  }
+  
+  .form-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .form-actions .btn {
+    width: 48%;
+  }
+  
+  .back-button {
+    background: none;
+    border: none;
+    color: #000;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  

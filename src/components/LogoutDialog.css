@@ -1,0 +1,21 @@
+/* src/components/LogoutDialog.css */
+.bi-exclamation-triangle {
+    font-size: 2rem;
+    color: #dc3545;
+  }
+  
+  .btn-primary {
+    background-color: #5a2d82;
+    border-color: #5a2d82;
+  }
+
+.btn-primary:hover {
+    background-color: #471e6a;
+    border-color: #471e6a;
+  }
+
+.title-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
